@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokeamon/static/css/main.b7dd1839.css",
+    "main.js": "/pokeamon/static/js/main.27f75ad4.js",
+    "index.html": "/pokeamon/index.html",
+    "main.b7dd1839.css.map": "/pokeamon/static/css/main.b7dd1839.css.map",
+    "main.27f75ad4.js.map": "/pokeamon/static/js/main.27f75ad4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7dd1839.css",
+    "static/js/main.27f75ad4.js"
+  ]
+}
